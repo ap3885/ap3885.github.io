@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Contact Me"
 permalink: /about/contact/
+---
 
 Please reach out to me via email or phone:
 email1: ap3885@columbia.edu 
