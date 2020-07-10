@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Contact Me"
+description: Contact Details
 permalink: /about/contact/
 ---
 
