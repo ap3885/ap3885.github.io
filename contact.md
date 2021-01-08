@@ -11,3 +11,7 @@ email1: ap3885@columbia.edu
 email2: ananye.pandey@gmail.com
 
 phone: +1 (347)-276-7609
+
+[Linkedin](https://linkedin.com/in/ananyepandey)
+
+[Github](https://github.com/ap3885)
